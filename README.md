@@ -21,7 +21,7 @@ Crie o arquivo `.env` na raíz do projeto e adicione os seguintes dados conforme
 DB_NAME=nome-do-banco-de-dados
 DB_USER=nomeusuario-do-banco
 DB_PASSWORD=senhausuario-do-banco
-DB_HOST=irl-do-banco
+DB_HOST=url-do-banco
 DB_PORT=porta-do-banco
 ``` 
 
