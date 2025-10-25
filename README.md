@@ -7,7 +7,7 @@ python -m venv .venv
 
 2º Ative o venv
 ```bash
-.\venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 3º Baixe as dependências
