@@ -15,7 +15,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-4º Configure o acesso ao banco
+4º Configure o acesso ao banco <br>
 Crie o arquivo `.env` na raíz do projeto e adicione os seguintes dados conforme seu banco MySQL
 ```env
 DB_NAME=nome-do-banco-de-dados
